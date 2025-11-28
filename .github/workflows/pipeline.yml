@@ -1,4 +1,4 @@
-name: Week 3 MLS pipeline
+name: Week 3_2 MLS pipeline
 
 on:
   push:
